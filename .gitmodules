@@ -16,3 +16,6 @@
 [submodule "vino"]
 	path = vino
 	url = https://github.com/spandanb/orange_vino.git
+[submodule "container_aws"]
+	path = container_aws
+	url = https://github.com/singh264/container_aws.git
